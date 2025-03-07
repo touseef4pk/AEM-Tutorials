@@ -5,9 +5,8 @@ This repository contains step-by-step AEM projects for each tutorial. Whether yo
 📂 Repository Structure
 Each tutorial has its own folder with the corresponding AEM project:
 
-tutorial-01-create-aem-project/ – Setting up an AEM project using the latest Maven archetype
-tutorial-02-build-featured-cards-component/ – Creating a reusable Featured Cards component
-tutorial-03-enhance-featured-cards/ – Fetching dynamic data using a Sling Model
+mysite-tutorial-2/ – Creating a reusable Featured Cards component
+
 (More tutorials coming soon!)
 🛠 Requirements
 Adobe Experience Manager (AEM) 6.5+
