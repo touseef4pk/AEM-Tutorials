@@ -17,7 +17,7 @@ Node.js & npm (for front-end development)
 🚀 How to Use
 Clone the repository:
 
-git clone https://github.com/yourusername/AEM-Tutorial.git
+git clone https://github.com/touseef4pk/AEM-Tutorial.git
 Navigate to the desired tutorial folder:
 
 
