@@ -1,4 +1,4 @@
-#AEM Tutorials 🚀
+AEM Tutorials 🚀
 
 This repository contains step-by-step AEM projects for each tutorial. Whether you're a beginner or an experienced developer, these tutorials will help you build and enhance AEM components, work with Sling Models, dialogs, HTL (Sightly), and more.
 
